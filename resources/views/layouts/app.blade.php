@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>App Name - @yield('title')</title>
+    <title>PANG - @yield('title')</title>
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css"
         rel="stylesheet">
@@ -20,9 +20,11 @@
             left: 0;
             bottom: 0;
             width: 100%;
-            background-color: #9C27B0;
+            background-color: #FFB5B5;
             color: white;
             text-align: center;
+            margin-top:20px;
+            padding:20px;
         }
         body {
             background-color:  #EDF7EF
